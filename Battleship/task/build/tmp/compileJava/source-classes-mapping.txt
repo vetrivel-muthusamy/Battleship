@@ -1,20 +1,22 @@
 battleship/ships/Battleship.java
  battleship.ships.Battleship
-battleship/Board.java
- battleship.Board
-battleship/Main.java
- battleship.Main
+battleship/ships/Submarine.java
+ battleship.ships.Submarine
+battleship/ships/Cruiser.java
+ battleship.ships.Cruiser
 battleship/ships/Ship.java
  battleship.ships.Ship
 battleship/ships/Destroyer.java
  battleship.ships.Destroyer
-battleship/Game.java
- battleship.Game
-battleship/ships/Cruiser.java
- battleship.ships.Cruiser
 battleship/ships/AircraftCarrier.java
  battleship.ships.AircraftCarrier
 battleship/Point.java
  battleship.Point
-battleship/ships/Submarine.java
- battleship.ships.Submarine
+battleship/Board.java
+ battleship.Board
+battleship/Main.java
+ battleship.Main
+battleship/Game.java
+ battleship.Game
+battleship/Player.java
+ battleship.Player
