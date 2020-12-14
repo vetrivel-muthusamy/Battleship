@@ -9,6 +9,5 @@ class Converter {
         }
         return builder.toString().toCharArray();
 
-
     }
 }

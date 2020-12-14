@@ -50,3 +50,6 @@ content:
 - Don't be late again
 - The intersection of time ranges
 - Convert to char array
+- Convert to bytes
+- Reverse input text
+- Count words
